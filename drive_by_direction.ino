@@ -5,8 +5,8 @@ Madgwick filter;
 
 //GOLD CHALLENGE
 
-char ssid[] = "Virgin Macs";
-char pass[] = "0870541630gmC";
+char ssid[] = "XXXXXX";
+char pass[] = "XXXXXXXXX";
 WiFiClient client;
 WiFiServer server(5200);
 char c; //for client input
