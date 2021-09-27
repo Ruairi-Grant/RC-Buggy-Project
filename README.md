@@ -1,6 +1,6 @@
 # RC-Buggy-Project
 
-This is really two variations of the same project. It is a buggy controlled by an arduino nano 33 iot, and a processing GUI.  
+This is really two variations of the same project. It is a buggy controlled by an arduino nano 33 iot, and a processing GUI. The .fzz file is a sketch of the circuit involved, created with fritzing.    
 Worked on with **Triona McNamara, Adam Peat and Heather Mitchell**.
 
 ### pde_object_following
